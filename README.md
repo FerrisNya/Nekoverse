@@ -1,3 +1,11 @@
+# Nekoverse
+
+<p align="center">
+	<a href="https://discord.gg/NxnRjM7aTQ">
+    <img src="" alt="Temporary Development Server" /></a>
+
+# From Fluxer
+
 > [!CAUTION]
 > As of this writing (15 June 2026), we are working to finalise the API and self-hosting documentation over the next few days.
 >
